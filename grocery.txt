@@ -3,6 +3,6 @@ grocery list
 
 apples
 bananas
-soy milk
+almond milk
 vegetables
 cookies
